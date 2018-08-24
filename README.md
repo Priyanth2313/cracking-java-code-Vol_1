@@ -1,9 +1,6 @@
-=================================================
 # **Cracking-Java-Code (CJC) - 2018-2019**
-=================================================
-### Cracking Java Code is a coding series started by me as I continued to learn code in my  own way. Each step is logged on a daily basis and this repository 
-### some day may become an open source knowledge and guide to start off every coder with the basics of the language and slowly to a much deeper level of 
-### understanding with the help example code and theoretical explanation.
+-----------------
+> Cracking Java Code is a coding series started by me as I continued to learn code in my  own way. Each step is logged on a daily basis and this repository some day may become an open source knowledge and guide to start off every coder with the basics of the language and slowly to a much deeper level of understanding with the help example code and theoretical explanation.
 
 ## **Disclaimer**
 -----------------
@@ -12,8 +9,7 @@
 > knowledge and context upto my complete understanding of the concept irrespective of any source. What this repository comprises of no textual information from 
 > any sources but rather own implications and ideas from gathering and reading many sources. Completing this series means you are code ready and not job ready.
 
-===================================================
-
+------------------
 ## **Context**
 ------------------
 
@@ -21,9 +17,7 @@
 
 
 
-
-
-====================================================
+------------------
 ### **Object Oriented Programming
 
 ### Identifiers and Modifiers
@@ -43,10 +37,9 @@
 
 
 <dl>
-	<dt>**Identifiers:**</dt>
+	<dt><strong>Identifiers:</strong></dt>
 	<dd>Identifiers are the names of variables, methods, classes, packages and interfaces. Unlike literals they are not the things themselves, just ways of referring to them. In the HelloWorld program, HelloWorld , String , args , main and println are identifiers</dd>
 </dl>
-
 -----------------------------------------------------------
 
 
