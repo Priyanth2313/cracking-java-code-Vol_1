@@ -17,7 +17,7 @@
 
 
 ------------------
-### **Object Oriented Programming
+### Object Oriented Programming
 
 ### Identifiers and Modifiers
 
@@ -39,7 +39,7 @@
 	<dd>Identifiers are the names of variables, methods, classes, packages and interfaces. Unlike literals they are not the things themselves, just ways of referring to them. In the HelloWorld program, HelloWorld , String , args , main and println are identifiers</dd>
 </dl>
 
-------------
+---------------
 ### Variables in Java:
 **Concepts related to variables**
 * Declaration
@@ -53,8 +53,8 @@
 	<dt><strong>Static/Class Variables</strong></dt>
 	<dd>Class/Static variables declared with the static keyword in a class, but outside a method, constructor or block. Only a single copy of static variable can be created and can be re used in the class and its static methods.</dd>
 </dd>
------------
 
+-----------
 ### Final and Static Keyword:
 **Final:**
 <dl>
@@ -78,5 +78,21 @@
 	<dt><strong>Nested Static Class</strong></dt>
 	<dd>Only nested class/inner class can be static but not the outer class</dd>
 </dl>
+
 ---------------
 
+### this and super keyword:
+**this:**
+* 'this' keyword is used as a reference variable that refers to the current object.
+* 'this' keyword is used to invoke current class method
+* 'this' keyword is used as an argument in the constructor call
+* 'this' keyword is used as an method parameter
+* 'this' keyword to refer current class instance variables
+
+**super:**
+* It is used to call the superclass constructor variables or methods to be used in the subclass constructor.
+
+**synchronized:** 
+* It is used to achieve thread safeness. Only one  thread can execute a method or a block which is declared as synchronized at any given time.
+
+---------------
