@@ -1,4 +1,4 @@
-package com.pri.corejava.collections;
+package com.pri.corejava.collections.list;
 
 import java.util.Scanner;
 
