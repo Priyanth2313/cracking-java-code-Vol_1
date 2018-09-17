@@ -1,4 +1,4 @@
-package com.pri.corejava.Strings;
+package com.pri.corejava.DatatypeClasses;
 
 	/*
 	 * Various implementations of String class and its in built methods
